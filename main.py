@@ -34,6 +34,6 @@ def main():
     even_int_list = even_list(int_list)
     output = sum_of_squares_of_even(even_int_list)
     print(output)
-    # Boilerplate code
-    if __name__ == "__main__":
-        main()
+# Boilerplate code
+if __name__ == "__main__":
+    main()
